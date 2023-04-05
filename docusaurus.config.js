@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'arbor1014', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'ISNotes.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages', // 要把静态文件部署到的分支名称
 
   // 检测到无效链接时的行为。
