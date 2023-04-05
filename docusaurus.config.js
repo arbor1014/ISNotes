@@ -13,10 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
+<<<<<<< HEAD
   url: 'https://arbor1014.github.io/ISNotes.github.io/',
+=======
+  url: 'https://arbor1014.github.io',
+>>>>>>> master
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/ISNotes/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -70,7 +74,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: "arbor",
+        // title: "arbor",
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
